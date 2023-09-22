@@ -1,0 +1,19 @@
+	 Welcome Gaurav mini Mall
+ Bill Number:6698
+ Customer Name:Gaurav Singh
+ Phone Number:9918897103
+ Customer Email:singhgaurav44037@gmail.com
+====================================
+ Products		QTY		Price
+====================================
+ Roadstar		1		1800
+ RedmePro		1		9000
+ Iphone_12		1		85000
+ Olay		1		30
+ Mufti		1		7000
+
+ ============================
+ Sub Ammount:			Rs.102830.00
+ Tax Ammount:			Rs.958.30
+ Total Ammount:			Rs.103788.30
+==============================
